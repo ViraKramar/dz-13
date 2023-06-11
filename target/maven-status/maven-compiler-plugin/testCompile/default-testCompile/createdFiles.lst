@@ -1,0 +1,5 @@
+utils\DBReader.class
+utils\DBReaderOneMethod.class
+dataproviders\TestData.class
+operations\TestFeeCalculation.class
+models\Purchases.class
