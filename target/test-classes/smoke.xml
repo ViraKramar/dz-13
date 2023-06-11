@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Calculation Total Amount">
+    <test name="Operation Smoke">
+        <classes>
+            <class name="operations.TestFeeCalculation"/>
+        </classes>
+    </test>
+</suite>
